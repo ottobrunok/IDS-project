@@ -64,6 +64,7 @@ health - current health status (numeric: from 1 - very bad to 5 - very good)
 
 absences - number of school absences (numeric: from 0 to 93)
 
+
 These grades are related with the course subject, Math or Portuguese:
 
 G1 - first period grade (numeric: from 0 to 20)
